@@ -1,0 +1,79 @@
+[ File output by Morphobank v4.0 (http://www.morphobank.org); 2026-1-7 12.37.31 ]
+Phenotypic characters (numbered in Nexus format)
+ 1. Head shape [[ (Basibuyuk et al., 2002: 1; Peñalver et al., 2010: 1; Li et al., 2013: 1; Li et al., 2018: 3):]] : head capsule not extended (0);  head capsule extended ventrally, flattened posteriorly (1).
+ 2. Dorsal and median coronal teeth  : absent (0);  present (1);  state not defined by author in publication (2).
+ 3. Number of ventral coronal teeth  : none (0);  one (1);  two (2).
+ 4. Compound eye length  : long, almost extending to mandible (0);  shorter, terminating some distance from mandible base (1).
+ 5. Prominent facial horn  : present (0);  absent (1).
+ 6. Antennal insertion relative to eye [[ (modified from Jennings and Austin, 2000: 1; Turrisi et al., 2009: 14; Li et al., 2018: 8)]] : about level with base of eyes or slightly below (0);  at least half-way up eyes (1).
+ 7. Number of antennomeres in male [[ (modified from Ronquist et al., 1999: 17; Jennings and Austin, 2000: 3; Li et al., 2018: 10)]] : less than 13 (0);  13 (1);  more than 13 (2).
+ 8. Number of antennomeres in female [[ (modified from Ronquist et al., 1999: 18; Jennings and Austin, 2000: 2; Peñalver et al., 2010: 3; Li et al., 2018: 11)]] : less than 13 (0);  13 (1);  14 (2);  more than 14 (3).
+ 9. Structure of antenna [[ (Ronquist et al., 1999: 12; Peñalver et al., 2010: 4; Li et al., 2018: 13)]] : simple (0);  more or less elbowed (1).
+ 10. Length of scapus [[ (modified from Ronquist et al., 1999: 13; Li et al., 2018: 14)]] : scapus short, less than twice as long as pedicellus (0);  scapus moderately long, more than twice as long as pedicellus (1).
+ 11. Scapus width relative to pedicellus [[ (modified from Jennings and Austin, 2000: 19; Li et al., 2018: 15)]] : scapus much wider than pedicellus (0);  scapus at most as wide as pedicellus (1);  state not defined by author in publication (2).
+ 12. 1st flagellomere length relative to 2nd flagellomere [[ (modified from Jennings and Austin, 2000: 8; Li et al., 2018: 16)]] : 1st flagellomere longer than 2nd (0);  1st flagellomere the same length as 2nd (1);  1st flagellomere shorter than 2nd (2).
+ 13. Apical flagellomere length relative to penultimate flagellomere  : apical flagellomere more than twice as long as penultimate flagellomere (0);  apical flagellomere than 1 to 2 times as long as penultimate flagellomere (1);  apical flagellomere short than penultimate flagellomere (2).
+ 14. Mandibles  : mandibles short, scarcely overlapping when closed (0);  mandibles overlapping when closed (1).
+ 15. Number of maxillary palpomeres [[ (modified from Sharkey et al., 2012: 61)]] : less than four (0);  four (1);  more than four (2).
+ 16. Fore wing vein C  : present (0);  absent (1).
+ 17. Fore wing vein 1r-rs [[ (modified from Ronquist et al., 1999: 82; Li et al., 2013: 9; Li et al., 2018: 21)]] : present (0);  absent (1).
+ 18. Fore wing vein 2A [[ (Li et al., 2013: 12; Li et al., 2018: 22)]] : present (0);  absent (1).
+ 19. Fore wing subbasal loop of vein 2A [[ (Li et al., 2013: 7; Li et al., 2018: 19)]] : present (0);  absent (1).
+ 20. Fore wing vein a1-a2 [[ (Li et al., 2013: 13; Li et al., 2018: 23)]] : present (0);  absent (1).
+ 21. Fore wing vein 2r-m [[ (modified from Ronquist et al., 1999: 85; Li et al., 2013: 10; Li et al., 2018: 27)]] : present (0);  absent (1).
+ 22. Fore wing vein 3r-m [[ (modified from Ronquist et al., 1999: 86; Basibuyuk et al., 2002: 16; Peñalver et al., 2010: 16; Li et al., 2013: 11; Li et al., 2018: 28)]] : present (0);  absent (1).
+ 23. Fore wing crossvein 2m-cu [[ (modified from Ronquist et al., 1999: 92; Basibuyuk et al., 2002: 17; Peñalver et al., 2010: 17; Li et al., 2013: 14; Li et al., 2018: 30)]] : present (0);  absent (1).
+ 24. Fore wing vein 2r-rs [[ (modified from Li et al., 2018: 31)]] : 2r-rs longer than pterostigma width (0);  2r-rs at most as long as pterostigma width (1).
+ 25. Position of crossvein 2r-rs of fore wing [[ (modified from Ronquist et al., 1999: 84; Li et al., 2018: 32)]] : 2r-rs arises no further than middle of pterostigma (0);  2r-rs arises distal to middle of pterostigma (1).
+ 26. Fore wing vein 1-Rs [[ (Li et al., 2018: 33)]] : 1-Rs shorter than 1-M (0);  1-Rs approx. as long as 1-M (1);  1-Rs longer than 1-M (2).
+ 27. Fore wing vein 1 m-cu  : present (0);  absent (1).
+ 28. Shape of vein M+Cu [[ (Ronquist et al., 1999: 88; Li et al., 2018: 37)]] : curved or angular (0);  nearly straight (1).
+ 29. Fore wing vein 1Rs +M [[ (Ronquist et al., 1999: 79; Li et al., 2018: 38)]] : present (0);  absent, at least basal to 1m-cu (1).
+ 30. Fore wing vein 2Rs +M [[ (Li et al., 2018: 39)]] : present (0);  absent (1).
+ 31. Relative lengths of veins 1Rs+M and 2Rs+M in fore wing [[ (Li et al., 2018: 40)]] : 1Rs+M longer than 2Rs+M (0);  1Rs+M approx. equal to 2Rs+M (1);  1Rs+M shorter than 2Rs+M (2).
+ 32. Fore wing marginal cell 3r [[ (modified from Basibuyuk et al., 2002: 12; Peñalver et al., 2010: 12; Li et al., 2018: 41)]] : polygonal (0);  triangular (1).
+ 33. Fore wing distalmost abscissa of vein Rs [[ (Li et al., 2018: 42)]] : Rs meeting anterior wing margin well before wing apex (0);  Rs reaching to near wing apex (1).
+ 34. Relative position of veins 2r-m and 2m-cu [[ (Li et al., 2018: 44)]] : 2r-m basal of 2m-cu (0);  2m-cu basal of 2r-m (1).
+ 35. Fore wing veins 1-Rs and 1-M [[ (modified from Basibuyuk et al., 2002: 14; Peñalver et al., 2010: 14; Li et al., 2018: 46)]] : 1-Rs and 1-M nearly parallel, no significant angle between them (0);  1-Rs and 1-M strongly angled at the junction of Rs+M (1).
+ 36. Fore wing cells 1M and 2M [[ (modified from Li et al., 2018: 47)]] : 1M wider than 2M (0);  1M nearly as wide as 2M (1);  1M distinctly narrower than 2M (2);  state not defined by author in publication (3);  New State (4).
+ 37. First submarginal cell 1+2r [[ (modified from Basibuyuk et al., 2002: 13; Peñalver et al., 2010: 13; Li et al., 2018: 49)]] : shorter than either marginal cell 3r or basal cell (or both) (0);  longer than both (1);  state not defined by author in publication (2).
+ 38. Fore wing vein 1A [[ (Li et al., 2017: 11)]] : complete, extending beyond cu-a (0);  incomplete, only reaching cu-a or completely absent (1).
+ 39. Fore wing vein 2-1A basally [[ (van Achterberg, 2002: 16)]] : curved (0);  straight (1).
+ 40. Number of cross veins in hind wing [[ (modified from Li et al., 2018: 50)]] : two or more (0);  one (1);  none (2).
+ 41. Hind wing cell r [[ (Li et al., 2018: 51)]] : enclosed (0);  open or absent (1).
+ 42. Vein C of hind wing [[ (Ronquist et al., 1999: 99; Li et al., 2018: 52)]] : present (0);  absent (1).
+ 43. Vein SC of hind wing [[ (Li et al., 2018: 53)]] : present (0);  absent (1).
+ 44. Veins R and RS of hind wing [[ (Ronquist et al., 1999: 100; Li et al., 2018: 54)]] : R and Rs at least partly tubular (0);  Rs completely nebulous or absent (1).
+ 45. Crossvein r-m of hind wing [[ (Ronquist et al., 1999: 102; Li et al., 2018: 56)]] : tubular (0);  nebulous to absent (1).
+ 46. Hind wing, m-cu cross vein [[ (modified from Li et al., 2018: 57)]] : present (0);  partially present (1);  absent (2).
+ 47. Vein cu-a of hind wing [[ (Li et al., 2017: 16)]] : present (0);  absent (1).
+ 48. Hind wing jugal lobe (posterobasal wing area) [[ (Li et al., 2013: 17; Li et al., 2018: 63)]] : delimited by a fold and tucking under the wing at rest (0);  absent (1).
+ 49. Groove on hind coxa [[ (Jennings and Austin, 2000: 41; Turrisi et al., 2009: 48; Li et al., 2018: 64)]] : present (0);  absent (1).
+ 50. Hind coxa [[ (van Achterberg, 2002: 5; Li et al., 2017: 23)]] : without dorsal teeth (0);  with dorsal teeth (1).
+ 51. Hind coxa-2 [[ (modified from van Achterberg, 2002: 17; modified from Li et al., 2017: 24)]] : robust (0);  slender (1).
+ 52. Metacoxa in lateral view  : widest at base, the two basal articulations with metapleuron widely separated from each other and arranged vertically (0);  usually strongly narrowed at base, the two basal articulations usually very close to one another and arranged obliquely (1).
+ 53. Hind trochantellus  : present (0);  absent (1).
+ 54. Hind femur [[ (modified from Li et al., 2017: 25)]] : smooth (0);  with dentition (1).
+ 55. Hind femur-2  : swollen (0);  slender (1).
+ 56. Hind tibia [[ (Basibuyuk et al., 2002: 10; Peñalver et al., 2010: 10; Li et al., 2018: 65)]] : only slightly wider distally than basally (0);  slightly wider in the middle (1);  much wider distally than basally (2).
+ 57. Hind tibia-2  : somewhat longer than femur (0);  as long as femur (1);  somewhat shorter than femur (2).
+ 58. Pronotum [[ (Li et al., 2017: 22)]] : short (0);  elongate extended as thin neck (1).
+ 59. Propleuron  : short or elongate jointly with pronotum (0);  elongate alone, extended as thin neck (1).
+ 60. Medial mesoscutal sulcus [[ (Basibuyuk et al., 2002: 8; Peñalver et al., 2010: 8; Li et al., 2013: 3; Li et al., 2018: 70)]] : present (0);  absent (1).
+ 61. Notauli [[ (modified from Li et al., 2013: 4; modified from Li et al., 2018: 71)]] : if present, not continuous posteriorly (0);  present, merge posteriorly before reaching the transscutal articulation (1).
+ 62. Mesoscutum  : not raised (0);  raised anteriorly, above posterior pronotal border (1).
+ 63. Propodeum [[ (modified from Li et al., 2018: 72)]] : propodeum with metasomal attachment not elevated pyramidically (0);  propodeum with metasomal attachment elevated pyramidically and close to metanotum (1).
+ 64. Propodeum shape [[ (modified from Li et al., 2018: 72)]] : propodeum straight in lateral view (0);  convex between metanotum and metasomal articulation (1).
+ 65. Shape of mesosoma [[ (Ronquist et al., 1999: 26; Peñalver et al., 2010: 7; Li et al., 2018: 68)]] : elongate (0);  short (1).
+ 66. Wasp-waist  : body in dorsal view with no constriction near its middle between abdominal segments 1 and 2 (0);  body in dorsal view with little constriction near its middle between abdominal segments 1 and 2 (1);  body in dorsal view with strong and usually conspicuous dorsal and lateral constriction between abdominal segments 1 and 2, thus delimiting the mesosoma and metasoma (2).
+ 67. Metasoma in dorsal view  : sclerotized (0);  partially membraneous (1).
+ 68. Metasomal shape 1 [[ (modified from Li et al., 2018: 74)]] : distinctly elongate， length significantly more than half the body length (0);  moderately elongate, the length is about half the body length (1);  short, length significantly shorter than half the body length (2).
+ 69. Metasomal shape 2 [[ (modified from Turrisi et al., 2009: 64; Li et al., 2018: 75)]] : cylindric to ovoidal in lateral view (0);  pyriform in lateral view (1);  gaster subcircular in lateral view (2).
+ 70. Shape and length of first metasomal segment [[ (Li et al., 2018: 77)]] : nearly as long as or longer than remaining metasomal segments, wider or narrower tubular/clavate (0);  narrowed basally, cone-shaped/wide triangle (1);  very wide, rectangular or trapezoid (2).
+ 71. Hind face of propodeum between metasomal and hind coxal bases [[ (Rasnitsyn and Zhang, 2010: 20; Li et al., 2018: 78)]] : membraneous (0);  sclerotized laterally or entirely (1).
+ 72. First metasomal segment [[ (modified from Li et al., 2017: 30)]] : distinctly longer than second metasomal segment (0);  about as long as second metasomal segment (1);  distinctly shorter than second metasomal segment (2);  state not defined by author in publication (3).
+ 73. First metasomal sternite [[ (van Achterberg, 2002: 3; Li et al., 2017: 31)]] : movably joined to first tergite (0);  immovable (1).
+ 74. Second metasomal tergite sculpture  : smooth (0);  not smooth (1).
+ 75. Ovipositor [[ (modified from Ronquist et al., 1999: 126; Jennings and Austin, 2000: 47; Basibuyuk et al., 2002: 24; Peñalver et al., 2010: 24; Li et al., 2013: 20; Li et al., 2018: 80)]] : long, extending beyond metasomal apex (0);  short, not extending beyond metasomal apex, still visible externally (1);  short, concealed by metasoma (2).
+ 76. Ovipositor sheath shape [[ (Sharkey et al., 2012: 384)]] : laterally flattened (0);  cylindrical, not laterally flattened (1).
+ 77. Functional spiracles in female [[ (modified from Sharkey et al., 2012: 378)]] : functional spiracles absent from metasomal segments 1-6 (0);  functional spiracles present on metasomal segments 1-7 (1).
