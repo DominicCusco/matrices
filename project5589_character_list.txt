@@ -1,0 +1,128 @@
+[ File output by Morphobank v4.0 (http://www.morphobank.org); 2026-1-11 19.18.26 ]
+Phenotypic characters (numbered in Nexus format)
+ 1. Skull dimensions (Benton, 1984)  : longer than broad (0);  broader than long (1).
+ 2. Skull height (Hone & Benton, 2008)  : <50% of the midline length (0);  >50% of the midline length (1).
+ 3. External nares (Benton, 1985)  : separate (0);  single medial naris (1).
+ 4. Orbit orientation (Langer & Schultz, 2000)  : mostly lateral (0);  mostly dorsal (1).
+ 5. Orbit with elevated rim along the jugal, postorbital, frontal, prefrontal and lacrimal  : absent (0);  present (1).
+ 6. Orbital medial margin (Montefeltro, Langer & Schultz, 2010)  : rounded (0);  forming a marked angle (1).
+ 7. Lower temporal fenestra (Dilkes, 1998)  : open ventrally (0);  closed ventrally (1).
+ 8. Premaxilla ventral margin (Benton, 1985)  : horizontal (0);  down-turned (1).
+ 9. Premaxilla and prefrontal contact (Dilkes, 1998)  : absent (0);  present (1).
+ 10. Shape of rostral margin of nasal at midline (Dilkes, 1998)  : strongly convex with rostral process (0);  transverse with little convexity (1).
+ 11. Jugal and maxillary heights bellow the ventral border of the orbit (Benton, 1984)  : maxilla higher (0);  jugal higher (1).
+ 12. Jugal-lacrimal contact (Whatley, 2005)  : minimal (0);  extensive contact of the jugal rostral process (1).
+ 13. Anguli oris crest (modified from Benton, 1984)  : absent (0);  present (1).
+ 14. Rostral extension of the anguli oris crest (modified from Benton, 1984)  : restricted to the main body of the jugal (0);  extending onto the rostral process of the jugal, but not the maxilla (1);  extending onto the maxilla, but not the rostral process of the jugal (2).
+ 15. Jugal surface dorsal to anguli oris crest (Langer & Schultz, 2000)  : lacking a secondary crest (0);  with a secondary anguli oris crest (1).
+ 16. Lateral overlap of maxilla by jugal (Whatley, 2005)  : absent or minimally expanded (0);  well developed (1).
+ 17. Jugal with multiple pits on the lateral surface of its main body (Butler et al., 2015)  : absent (0);  present (1).
+ 18. Jugal subtemporal process (Dilkes, 1995)  : height >50% of the length (0);  height <50% of the length (1).
+ 19. Jugal subtemporal process with a distinct lateroventral orientation with respect to the sagittal axis of the snout (Butler et al., 2015)  : absent (0);  present (1).
+ 20. Relative widths of postorbital bar and lower temporal fenestra (Langer & Schultz, 2000)  : <0.4 (0);  >0.4 (1).
+ 21. Dorsomedial surface of prefrontal near the orbital rim (Whatley, 2005)  : flat or slightly concave (0);  deeply concave (1).
+ 22. Procumbent lacrimal and prefrontal rostrolateral margin (Whatley, 2005)  : absent (0);  present (1).
+ 23. Groove on the dorsal surface of the frontal (Dilkes, 1995)  : absent (0);  present (1).
+ 24. Dorsal groove on frontal (Butler et al., 2015)  : longitudinally extended along most of the surface of the frontal (0);  rostrolaterally-to-caudomedially extended along the caudal half of the frontal (1).
+ 25. Well-marked  : V (0);  -shaped crest along frontal-postfrontal contact, rostral to the margin of the supratemporal fossa (Montefeltro, Langer & Schultz, 2010) (1);  absent (2);  present (3).
+ 26. Frontal and parietal midline lengths (Benton, 1987)  : frontal longer (0);  parietal longer (1).
+ 27. Postfrontal (Dilkes, 1998)  : excluded from upper temporal fenestra border (0);  forming the upper temporal fenestra border (1).
+ 28. Postfrontal dorsal surface (Dilkes, 1995)  : flat (0);  markedly concave (1).
+ 29. Caudal extension of the caudal process of the postorbital (modified from Dilkes, 1998)  : considerably rostral to the level of the caudal border of the infratemporal fenestra (0);  at level with the caudal border of the infratemporal fenestra (1).
+ 30. Postorbital rostroventral process (Dilkes, 1998)  : expanding ventral to the level of the orbital midpoint (0);  expanding dorsally to orbital height midpoint (1).
+ 31. Postorbital ventral process (Whatley, 2005)  : expands rostral to the jugal (0);  fits dorsal to the jugal (1).
+ 32. Postorbital-parietal suture (Dilkes, 1998)  : visible in dorsal view (0);  hidden in dorsal view (1).
+ 33. Parietals (Benton, 1985)  : separate (0);  fused (1).
+ 34. Parietal foramen (Benton, 1985)  : always, or sometimes, present (0);  always absent (1).
+ 35. Parietal table (Dilkes, 1998)  : broad (0);  constricted and with sagittal crest (1).
+ 36. Parietal body (Montefeltro, Langer & Schultz, 2010)  : not expanded laterally at midlength (0);  expanded laterally at midlength (1).
+ 37. Parietal transverse process (Montefeltro, Langer & Schultz, 2010)  : caudolaterally directed (0);  laterally directed (1).
+ 38. Distal tip of parietal transverse process (modified from Montefeltro, Langer & Schultz, 2010)  : not rostroventrally curved (0);  rostroventrally curved (1).
+ 39. Squamosal ventral process (Benton, 1990)  : thinner than 50% of dorsoventral length (0);  broader than over 50% of dorsoventral length (1).
+ 40. Squamosal medial process (Butler et al., 2015)  : short, forming less than half of the caudal border of the supratemporal fenestra (0);  long, forming entire or almost entire caudal border of the supratemporal fenestra (1).
+ 41. Relative position of quadratojugal and squamosal processes (Whatley, 2005)  : squamosal ventral process rostral to quadratojugal dorsal process (0);  squamosal ventral process overlapping the quadratojugal dorsal process (1).
+ 42. Quadratojugal rostral process (Dilkes, 1998)  : completely absent (0);  present (1).
+ 43. Supratemporal (Benton, 1984)  : present (0);  absent (1).
+ 44. Supratemporal with a bifurcated medial border, in which a ventromedial process extends underneath the caudolateral process of the parietal (Butler et al., 2015)  : present (0);  absent (1).
+ 45. Pterygoid midline suture length (Whatley, 2005)  : greater than or equal to the distance between the caudal margin of the suture and the basipterygoid articulation (0);  less than the distance between the caudal margin of the suture and the basipterygoid articulation (1).
+ 46. Ectopterygoid reaches lateral corner of transverse flange of pterygoid (Dilkes, 1998)  : no (0);  yes (1).
+ 47. Elements forming the border of the suborbital fenestra (Dilkes, 1995)  : pterygoid, ectopterygoid, palatine, and maxilla (0);  pterygoid, ectopterygoid and palatine only (1).
+ 48. Supraoccipital shape (Dilkes, 1995)  : plate-like (0);  inverted V-shape (1).
+ 49. Occipital condyle position  : rostral_to_craniomandibular_articulation (0);  aligned_to_craniomandibular_articulation (1).
+ 50. Basioccipital and basisphenoid/parasphenoid lengths (Langer & Schultz, 2000)  : basisphenoid/parasphenoid longer (0);  basioccipital longer (1).
+ 51. Relative positions of the basipterygoid process of the basisphenoid and the ectopterygoid process of the pterygoid (Dilkes, 1995)  : at the same level (0);  basipterygoid process of the basisphenoid caudal to ectopterygoid process of the pterygoid (1).
+ 52. Basipterygoid process dimensions (dorsoventral length, rostrocaudal width) (Langer & Schultz, 2000)  : longer than wide (0);  wider than long (1).
+ 53. Jaw symphysis (Dilkes, 1998)  : formed largely by dentary (0);  formed only by splenial (1).
+ 54. Divergence of dentaries in front of symphysis (Dilkes, 1998)  : absent (0);  present (1).
+ 55. Mandible depth (Benton, 1984)  : <0.25 of the total length (0);  >0.25 of the total length (1).
+ 56. Dentary length (Benton, 1990)  : half, or less, than the total mandibular length (0);  greater than half of the total mandibular length (1).
+ 57. Premaxillary teeth (Benton, 1985)  : present (0);  absent (1).
+ 58. Tooth implantation (Benton, 1985)  : subthecodont or thecodont (0);  ankylothecodont (1).
+ 59. Maxilla occlusal ventral margin (modified from Dilkes, 1998)  : horizontal (0);  convex (1).
+ 60. Tooth occlusion (Benton, 1985)  : single sided overlap (0);  flat occlusion (1);  blade and groove jaw apparatus, where dentary blade(s) fit precisely into maxillary groove(s) (2).
+ 61. Vomerine teeth (Dilkes, 1998)  : present (0);  absent (1).
+ 62. Palatine teeth (Dilkes, 1998)  : present (0);  absent (1).
+ 63. Pterygoid teeth (Modified from Benton, 1983a and Ezcurra et al., 2015)  : present (0);  absent (1).
+ 64. Pterygoid teeth (Benton, 1983a, 1983a and Ezcurra et al., 2015)  : present as two or more rows of bottom-like teeth (0);  present, but single distinct row of teeth (1).
+ 65. Medial maxillary groove  : absent (0);  present (1).
+ 66. Medial maxillary groove (Benton, 1984)  : not reaching the rostral half of the maxilla (0);  reaching the rostral half of the maxilla (1).
+ 67. Maxillary area lateral to main groove (Benton, 1990)  : narrower than the medial area (0);  same width (1);  broader than the medial area (2).
+ 68. Maxillary cross-section lateral to main groove (Langer, Ferigolo & Schultz, 2000)  : crest-shaped (0);  cushion-shaped (1).
+ 69. Tooth rows lateral to main maxillary groove (Langer & Schultz, 2000)  : one row (0);  two rows (1);  three rows (2);  four rows (3);  five or more rows (4).
+ 70. Number of tooth rows medial to main maxillary groove (at the caudal half of the maxilla) (Langer, Ferigolo & Schultz, 2000, modified from Schultz et al., 2016)  : one row (0);  two rows (1);  three rows (2);  four rows (3);  five or more rows (4).
+ 71. Occlusal tooth rows on the rostral half of the maxilla (Whatley, 2005)  : four or more tooth rows (0);  fewer than four tooth rows (1).
+ 72. Maxillary lingual teeth (Benton, 1984)  : absent (0);  present (1).
+ 73. Maxillary lingual teeth (Benton, 1984) - 2  : scattered teeth (0);  large number of teeth on the medial surface of the bone (1).
+ 74. Maxillary teeth (Whatley, 2005)  : only conicals (0);  conicals and (1);  pyramidal (2).
+ 75. Dentary teeth (Whatley, 2005)  : only conical (0);  conical and rostrocaudally compressed (1).
+ 76. Number of rows of teeth on dentary (Benton, 1983a)  : one (0);  two (1);  more than two full rows (2).
+ 77. Caudal-most dentary teeth (Langer & Schultz, 2000)  : on the rostral half of lower jaw (0);  on the caudal half of lower jaw (1).
+ 78. Lingual dentary teeth (Benton, 1984)  : absent (0);  present as single row (1);  present as two rows (2).
+ 79. DEACTIVATED - 2 .
+ 80. Dentary teeth on the dentary lingual surface (Benton, 1985, rewritten from Schultz et al., 2016)  : forming rows of well-spaced teeth (0);  crowded (1).
+ 81. Axis ventral keel (Montefeltro et al., 2013)  : present (0);  absent (1).
+ 82. Axial parapophysis (Montefeltro et al., 2013)  : present (0);  absent (1).
+ 83. Cervical postaxial vertebrae ventral keel (Montefeltro et al., 2013)  : absent (0);  present (1).
+ 84. Truncal vertebrae with ossified intercentrum (Evans, 1988)  : present (0);  absent (1).
+ 85. Epipophyses on cervical postzygapophyses (Whatley, 2005)  : spine-shaped (0);  crest-shaped (1).
+ 86. Position of the transverse process of cranial truncal vertebrae (Montefeltro et al., 2013)  : at the level of prezygapophysis (0);  caudally located in the vertebra centrum (1).
+ 87. Second sacral vertebra (Dilkes, 1998)  : with a notch between the iliac articular surface and the caudal process (0);  caudal process continuous to the iliac articular surface (1).
+ 88. Caudal vertebrae, neural spine height versus proximodistal length at its base in proximal caudal vertebrae (Dilkes, 1998)  : <2.20 (0);  =2.20 (1).
+ 89. Interclavicle  : caudal process longer than twice the lateral processes (0);  caudal process shorter than twice the lateral process (1).
+ 90. Supinator process on the external surface of humeral ectepicondyle (Montefeltro et al., 2013)  : hook-shaped (0);  formed by a low supinator ridge and ligament groove (1).
+ 91. Caudal process of the coracoid  : present (0);  absent (1).
+ 92. Dorsal margin of the ilium (Dilkes, 1995)  : cranial process <15% of the length of the caudal process (0);  cranial process >15% of the length of the caudal process (1).
+ 93. Pubic tubercle on the lateral surface of the pubic shaft (Whatley, 2005)  : present (0);  absent (1).
+ 94. Internal trochanter (Whatley, 2005)  : continuous with the femoral head (0);  separated from femoral head (1).
+ 95. Crest on craniomedial region of tibial shaft  : (Montefeltro et al., 2013) (0);  absent (1);  present (2).
+ 96. Relative size of astragalar articular facets (Langer & Schultz, 2000)  : tibial facet greater than centrale facet (0);  centrale facet greater than tibial facet (1).
+ 97. Metatarsal I (Hone & Benton, 2008)  : longer than broad (0);  broader than long (1).
+ 98. Sacral vertebrae and ribs, shape of the caudal projection of the bifurcated distal end of the second sacral rib (Dilkes 1998)  : tapering (0);  squared (1).
+ 99. Caudal vertebrae, median longitudinal groove on the ventral surface of the centrum of the first two caudals (Dilkes 1998)  : absent (0);  present (1).
+ 100. Metatarsus, length of metatarsal I versus metatarsal III (Dilkes 1998)  : <0.45 (0);  =0.45 (1).
+ 101. Caudal orbital margin and caudal margin of maxillary tooth bearing area (Schultz et al., 2016)  : at the same level (0);  caudal orbital margin located caudally (1).
+ 102. Dorsal nasal profile in lateral view (Schultz et al., 2016)  : nasal inclined rostrally (0);  nasal horizontally oriented, rostral edge in level with caudal edge (1).
+ 103. Participation of the frontal in orbital margin (Schultz et al., 2016)  : frontal forming great part of the median section of orbital dorsal border (0);  prefrontal and postfrontal closer to, or contacting each other reducing the participation of the frontal in dorsal orbital border (1).
+ 104. Squamosal body (Schultz et al., 2016)  : restricted, forming a restricted intertemporal bar (0);  developed and forming a plate-like intertemporal bar (1).
+ 105. Rounded depression on the ventral surface of basisphenoid (Schultz et al., 2016)  : absent (0);  present (1).
+ 106. Dentary medial surface at caudal portion (Schultz et al., 2016)  : flat (0);  forming a bulged area projecting medially from the remaining area of the dentary (1).
+ 107. Curvature of the maxillary caudal border in lateral view (Schultz et al., 2016)  : caudal border of maxillae curves gentle towards the jugal (0);  caudal border of maxillae curves strongly towards the jugal so that the caudal teeth face caudoventrally (1).
+ 108. Extension of the lateral, or only, maxillary groove (Schultz et al., 2016)  : along the whole occlusal surface of maxilla (0);  limited to the caudal half of maxillary occlusal surface (1).
+ 109. Maxillary cross-section medial to main groove (Schultz et al., 2016)  : crest-shaped (0);  cushion-shaped (1).
+ 110. Size of maxillary occlusal teeth  (Schultz et al., 2016)  : enlarged teeth with each longitudinal row formed by reduced number of teeth (0);  reduced teeth with each longitudinal row formed by great number of teeth (1).
+ 111. Maxillary lingual teeth (Schultz et al., 2016)  : restricted to caudal half of the maxilla (0);  extending to the rostral half of maxillary length (1).
+ 112. Maxillary lingual tooth crown orientation (Schultz et al., 2016)  : medially oriented, perpendicular to maxillary medial wall (0);  ventrally directed parallel to maxillary medial wall (1).
+ 113. Jugal height/length ratio  : <0.5 (0);  >0.5 (1).
+ 114. Frontal pair (Benton 1983, Mukherjee & Ray 2014  : [14] (0);  ) (1);  longer than broad (2);  broader than long (3).
+ 115. Proportion of maxillary tooth plate, width at caudal end/length (Modified from Mukherjee & Ray, 2014  : [33] (0);  ) (1);  <0.3 (2);  >0.3 (3).
+ 116. Three bulbous processes or convexities on the cranial surface of the axial centrum (Mukherjee & Ray, 2014  : [50] (0);  ) (1);  absent (2);  present (3).
+ 117. Coracoid foramen (Modified from Langer & Schultz 2000, Mukherjee & Ray, 2014  : [58] (0);  ) (1);  restricted to coracoid (2);  shared between scapula and coracoid (3).
+ 118. Ratio between humeral (HL) and femoral (FL) lengths (Mukherjee & Ray, 2014  : [65] (0);  ) (1);  HL/FL < 1 (2);  HL/FL = 1 (3).
+ 119. Presence of a hook-shaped process at the maxilla-premaxilla suture above the dentigerous area (Langer et al., 2017)  : absent (0);  present (1).
+ 120. Paraoccipital process of opisthotic (Langer et al., 2017)  : curved ventrally (0);  straight (1).
+ 121. DEACTIVATED - 3 .
+ 122. Size of teeth in rows L1 and L2 (Langer et al., 2017)  : same size as other teeth (0);  teeth in L1 or L2 (1).
+ 123. Medial most row of occlusal tooth at caudal region of maxilla (Langer et al., 2017)  : strictly occlusal (0);  medially displaced and crowns with not strictly occlusal direction (1).
+ 124. Lacrimal, contacts the ascending process of the palatine (Fitch et al., 2022)  : present (0);  absent (1).
+ 125. Maxilla, occlusal view, labiolingual distance between longitudinal groove apex and L1 tooth row (Fitch et al., 2022)  : less than the labiolingual width of L1 teeth (0);  equal to or greater than the labiolingual width of L1 teeth (1).
+ 126. Maxilla, ascending process (Fitch et al., 2022)  : anterodorsal-posteroventral orientation of contact with the prefrontal and/or lacrimal (0);  nearly vertical orientation of contact with the prefrontal and/or lacrimal (1).
